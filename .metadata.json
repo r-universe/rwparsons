@@ -1,0 +1,10 @@
+[
+  {
+    "package": "circacompare",
+    "oncran": true
+  },
+  {
+    "package": "simMetric",
+    "oncran": true
+  }
+]

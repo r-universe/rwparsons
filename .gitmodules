@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "circacompare"]
+	path = circacompare
+	url = https://github.com/rwparsons/circacompare
+	shallow = true
+	registered = true
+[submodule "simMetric"]
+	path = simMetric
+	url = https://github.com/rwparsons/simmetric
+	shallow = true
+	registered = true
